@@ -1,8 +1,7 @@
 ## Sobre mim
 - 👋 Olá, meu nome é Breno Pocas
 - 👀 Estou interessado em trabalhar na área de desenvolvimento web e de softwares
-- 🌱 Atualmente estou estudando a parte do front-end em desenvolvimento web, seguindo html, css, javascript e react
-- 💞️ Procuro colaborar em projetos para ter contato com um ambiente de trabalho em equipe e problemas que encontrarei quando me inserir no mercado de trabalho
+- 🌱 Atualmente estou estudando Engenharia de Software
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
